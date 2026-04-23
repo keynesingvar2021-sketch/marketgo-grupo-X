@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Abdurrahman Narzullayov
-- Asya Narzullayova
+- Asya Narzullayev
 - Jose Cueva
 
 ## Descripción
