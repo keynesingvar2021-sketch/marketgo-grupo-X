@@ -18,3 +18,8 @@ Aplicación móvil de comercio electrónico desarrollada como proyecto final.
 - Proyecto en desarrollo
 - Pantallas diseñadas: registro, login, productos, carrito
 - Flujo entre pantallas completado
+
+## Tecnologías
+- Git
+- GitHub
+- Trello
