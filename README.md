@@ -3,7 +3,11 @@
 ## Integrantes
 - Abdurrahman Narzullayov
 - Asya Narzullayev
-- Jose Cueva
+- Jose Cueva Flores
+ ## Roles
+ - Abdurrahman Narzullayov: Líder del proyecto
+- Asya Narzullayova: Diseño de pantallas
+- Jose Cueva: Documentación
 
 ## Descripción
 Aplicación móvil de comercio electrónico desarrollada como proyecto final.
